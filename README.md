@@ -48,7 +48,7 @@ The NestJS backend is structured as follows:
 ├── src  
 ├────EntityName  
 │  ├── controller  
-|  ├── entity  
+│  ├── entity  
 │  ├── module  
 │  ├── service  
 ├── main.ts  
