@@ -12,14 +12,14 @@ Brief introduction or overview of the project.
 ### Project Structure
 The React frontend is structured as follows:
 
-/frontend
-├── public
-├── src
-│ ├── components
-│ ├── pages
-│ ├── services
-│ └── App.js
-└── README.md
+/frontend  
+├── public  
+├── src  
+│ ├── components  
+│ ├── pages  
+│ ├── services  
+│ └── App.js  
+└── README.md  
 
 ### Getting Started
 1. Clone the repository.
@@ -44,15 +44,15 @@ $ npm run dev
 ### Project Structure
 The NestJS backend is structured as follows:
 
-/backend
-├── src
-├────EntityName
-│  ├── controller
-|  ├── entity
-│  ├── module
-│  ├── service
-├── main.ts
-└── README.md
+/backend  
+├── src  
+├────EntityName  
+│  ├── controller  
+|  ├── entity  
+│  ├── module  
+│  ├── service  
+├── main.ts  
+└── README.md  
 
 ### Getting Started
 1. Clone the repository.
